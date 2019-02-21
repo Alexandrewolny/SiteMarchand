@@ -16,11 +16,15 @@
 }
 
 .bouton {
-	position: relative;
+	/*position: relative;*/
 	margin-top: 34%;
 
 }
 
+.bouton:hover{
+	background:green; 
+	border-radius: 15px;
+}
 
 h5
 {
@@ -47,3 +51,10 @@ h1
 	font-size: 7;	
 }
 
+footer {
+	background: #F5F5F5;
+}
+
+.hhh {
+	background: #F5F5F5;
+}
