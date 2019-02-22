@@ -52,9 +52,18 @@ h1
 }
 
 footer {
+	text-align: center;
 	background: #F5F5F5;
 }
 
 .hhh {
 	background: #F5F5F5;
+}
+
+.entete
+{
+	background-image: url("fondecran.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
 }
